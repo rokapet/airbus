@@ -1,1 +1,3 @@
 # airbus
+
+Just a place to keep my home cockpit related codes. The project is in it's infancy, so expect no "working as-is" codes for a while...
